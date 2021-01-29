@@ -1,0 +1,28 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acys17/weather-app.git"
+  },
+  "author": "Alice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acys17/weather-app/issues"
+  },
+  "homepage": "https://github.com/acys17/weather-app#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
